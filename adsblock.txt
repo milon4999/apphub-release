@@ -163,3 +163,7 @@
     'qy.amgarngibber.qpon',
     'tilednonbusy.shop',
     'mbdippex.com',
+    'hafakkkp.in',
+    'hai8g.com',
+    'g2288.com',
+    'gstatic.com',
