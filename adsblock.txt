@@ -167,3 +167,8 @@
     'hai8g.com',
     'g2288.com',
     'gstatic.com',
+    'cdn.pncloudfl.com',
+    'darnobedienceupscale.com',
+    'footbathmockerpurse.com',
+    'holahupa.com',
+    'traktortds.com',
