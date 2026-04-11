@@ -1,6 +1,6 @@
 # source_key   host_or_url
-xmoviesforyou  cdn-tnmr.org
 xmoviesforyou  streamtape.com
 xmoviesforyou  tapecontent.net
 xmoviesforyou  tpead.net
-
+xxxparodyhd    luluvid.com
+xxxparodyhd    cdn-tnmr.org
