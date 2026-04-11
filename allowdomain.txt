@@ -1,1 +1,3 @@
-
+# source_key   host_or_url
+xxxparodyhd xxxparodyhd.net
+xxxparodyhd cdn.example.com
